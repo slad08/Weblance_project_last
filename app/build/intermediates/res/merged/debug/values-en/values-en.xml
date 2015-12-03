@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action_settings">Settings</string>
+    <string name="add_image">Insert a picture</string>
+    <string name="app_name">Weblance_project</string>
+    <string name="choose_category">CHOOSE CATEGORY</string>
+    <string name="choose_condition">CHOOSE CONDITION</string>
+    <string name="choose_locate">CHOOSE LOCATE</string>
+    <string name="email">email@mail.ru</string>
+    <string name="enter_button_complete">GO</string>
+    <string name="enter_description">ENTER DESCRIPTION</string>
+    <string name="enter_email">ENTER EMAIL</string>
+    <string name="enter_you_price">ENTER YOUR PRICE</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="minimum_simvol_enter_descriptions">min. 100 symbols</string>
+    <string name="price_cena">2000 P</string>
+    <string name="sostoyanie_good">GOOD</string>
+    <string name="sostoyanie_new">NEW</string>
+    <string name="sostoyanie_no_invariant">NO_INVARIANT</string>
+    <string name="sostoyanie_satisfactory">SATISFACTORY</string>
+    <string name="variants_choose_category">VARIANTS</string>
+    <string name="zapros_formirovanie">Formulate your query</string>
+</resources>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\Android_Work\Weblance_project\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.1\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="D:\Android_Work\Weblance_project\app\build\intermediates\pre-dexed\debug\classes-3e06c12a3373b73aeaa8165f609febe0d06c8bf3.jar" />
+    </item>
+    <item
+        jar="D:\Android_Work\Weblance_project\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="D:\Android_Work\Weblance_project\app\build\intermediates\pre-dexed\debug\classes-2716080fa4d54a9ce35c13ad36525e50ead40dba.jar" />
+    </item>
+    <item
+        jar="C:\Users\Denis\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.0.1\support-annotations-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="D:\Android_Work\Weblance_project\app\build\intermediates\pre-dexed\debug\support-annotations-23.0.1-8fe300bb4e7c0670f9ee1c27b539764786c07dee.jar" />
+    </item>
+    <item
+        jar="D:\Android_Work\Weblance_project\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\libs\internal_impl-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="D:\Android_Work\Weblance_project\app\build\intermediates\pre-dexed\debug\internal_impl-23.0.1-06daa382113d723b7c676b96f499f4e0529502f8.jar" />
+    </item>
+
+</items>

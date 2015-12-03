@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Проект веблансер</string>
+
+    <string name="action_settings">Настройки</string>
+
+    <string name="zapros_formirovanie">Сформулируйте ваш запрос</string>
+    <string name="add_image">Добавьте \nизображение </string>
+
+    <string name="choose_category">ВЫБЕРИТЕ КАТЕГОРИЮ </string>
+    <string name="variants_choose_category">ВАРИАНТЫ</string>
+    <string name="enter_description">ВВЕДИТЕ ОПИСАНИЕ </string>
+    <string name="minimum_simvol_enter_descriptions">минимум 100 знаков</string>
+    <string name="choose_condition">ВЫБЕРИТЕ СОСТОЯНИЕ</string>
+        <string name="sostoyanie_new">НОВОЕ</string>
+        <string name="sostoyanie_good">ХОРОШЕЕ</string>
+        <string name="sostoyanie_satisfactory">УДОВЛЕТВОРИТЕЛЬНОЕ</string>
+        <string name="sostoyanie_no_invariant">НЕ ПРИНЦИПИАЛЬНОЕ</string>
+    <string name="choose_locate">ВЫБЕРИТЕ МЕСТО</string>
+    <string name="enter_you_price">ВВЕДИТЕ СВОЮ ЦЕНУ</string>
+    <string name="price_cena">2000 P</string>
+    <string name="enter_email">ВВЕДИТЕ EMAIL</string>
+    <string name="hello_world" translatable="false">Hello world!</string>
+    <string name="email">email@mail.ru</string>
+   <string name="enter_button_complete">ГОТОВО</string>
+
+
+
+</resources>

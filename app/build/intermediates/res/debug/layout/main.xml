@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="#FFFFFF"
+    >
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/head_layout">
+        <include
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            layout="@layout/header_list" />
+
+    </LinearLayout>
+      <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="310dp"
+                android:id="@+id/expand_layout">
+      <include
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                 android:id="@+id/layout_exponded_list"
+                android:layout_below="@+id/head_layout"
+                layout="@layout/expanded_list_view" />
+     </LinearLayout>
+     <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+           android:layout_below="@+id/layout_exponded_list">
+            <include
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                layout="@layout/down_list" />
+            </LinearLayout>
+</LinearLayout><!-- From: file:/D:/Android_Work/Weblance_project/app/src/main/res/layout/main.xml -->
